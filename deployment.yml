@@ -18,5 +18,5 @@ spec:
       - name: my-deployment
         image: anmolgrover1984/project2
         ports:
-        - containerPort: 80
+        - containerPort: 81
 
